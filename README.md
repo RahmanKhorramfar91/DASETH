@@ -6,7 +6,7 @@
 #### 3. Detailed topological description of the current and future power and natural gas infrastructure in the region load zones, transmission lines and pipelines, as depicted in Fig. 2
 #### 4. Other parameters for energy planning including parameters for possible power plants and storage technologies. 
 
-***The detail description for constructing each dataset is provided in following paper. ***
+***The detail description for constructing each dataset is provided in following paper.***
 
 
 [Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification](https://arxiv.org/abs/2308.16814)
