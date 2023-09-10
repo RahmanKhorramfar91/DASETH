@@ -41,7 +41,9 @@ The detailed description of constructing each dataset is provided in the ***foll
 <br>
   
 ## Overview of the Dataset and Files
+
 The dataset is constructed for New England regions with varying spatial granularity for the power network. The residential load, however, is available for the power system with 17 nodes and is accessible in the folder `Raw_Residential_Data`. 
+
 Insider each of the remaining folders (i.e., ‘6_Power_Nodes’, ‘17_Power_Nodes’, and  ‘67_Power_Nodes’) there are two folders:
 
 <ul class="roman">
