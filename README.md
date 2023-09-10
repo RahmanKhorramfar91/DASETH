@@ -1,6 +1,7 @@
 # Dataset for the sustainable energy transition under heating electrification (DASETH)
 
 ***Dataset for the sustainable energy transition under heating electrification (DASETH) provides a comprehensive data repository  that enables the modeling of power-gas system futures under deep heating electrification. The dataset considers 6,17 and 67 subregions in New England and contains:***
+
 #### 1. Hourly projection of power demand and natural demand for the year 2050 under 20 different weather years and 5 different heating electrification levels (100 projections), as shown in Fig. 1
 #### 2. Hourly projection of availability factors for solar, wind, and offshore wind generators for the year 2050 under 20 different weather years and 5 different heating electrification levels (100 projections) 
 #### 3. Detailed topological description of the current and future power and natural gas infrastructure in the region load zones, transmission lines and pipelines, as depicted in Fig. 2
@@ -36,7 +37,7 @@ The detailed description of constructing each dataset is provided in the ***foll
 <br>
   
 ## Overview of the Dataset and Files
-The dataset is constructed for New England regions with varying spatial granularity for the power network. The residential load, however, is available for the power system with 17 nodes and is accessible in the folder ‘Raw_Residential_Data’. 
+The dataset is constructed for New England regions with varying spatial granularity for the power network. The residential load, however, is available for the power system with 17 nodes and is accessible in the folder `Raw_Residential_Data`. 
 Insider each of the remaining folders (i.e., ‘6_Power_Nodes’, ‘17_Power_Nodes’, and  ‘67_Power_Nodes’) there are two folders:
 
 <ul class="roman">
