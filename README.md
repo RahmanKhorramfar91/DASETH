@@ -1,4 +1,6 @@
 # Dataset for the sustainable energy transition under heating electrification (DASETH)
+- If you would like to process the `raw counts matrix and associated metadata`, the `fully-processed, annotated, and qc-ed data`, or the `annotated pre-qc lipidomic data`, these files can be downloaded from the AD Knowledge Portal under Synapse ID [syn38120890](https://www.synapse.org/#!Synapse:syn38120890.2/datasets/). *FASTQ files can also be found under the same Synapse ID.*
+
 
 ***Dataset for the sustainable energy transition under heating electrification (DASETH) provides a comprehensive data repository  that enables the modeling of power-gas system futures under deep heating electrification. The dataset considers 6,17 and 67 subregions in New England and contains:***
 
