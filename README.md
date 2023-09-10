@@ -13,14 +13,14 @@
 
 
 <p align="center">
-  <img src="BottomUp-JPoNG-map.png" width="800" title="Three-step procedure to project load data across 20 weather years and 5 electrification scenarios">
+  <img src="BottomUp-JPoNG-map.png" width="1000" title="Three-step procedure to project load data across 20 weather years and 5 electrification scenarios">
 </p>
 
 ***Fig. 1: Three-step procedure to project load data across 20 weather years and 5 electrification scenarios***
 
 
 <p align="center">
-  <img src="all-connections.png" width="500" title=" Topology of power and NG infrastructure in New England. The topology includes the existing infrastructure and the possible future developments">
+  <img src="all-connections.png" width="400" title=" Topology of power and NG infrastructure in New England. The topology includes the existing infrastructure and the possible future developments">
 </p>
 
 ***Fig. 2: Topology of power and NG infrastructure in New England. The topology includes the existing infrastructure and possible future developments.***
