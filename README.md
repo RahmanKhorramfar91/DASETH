@@ -1,9 +1,5 @@
 # Dataset for the sustainable energy transition under heating electrification (DASETH)
 
-
-If you would like to process the `raw counts matrix and associated metadata`, the `fully-processed, annotated, and qc-ed data`, or the `annotated pre-qc lipidomic data`, these files can be downloaded from the AD Knowledge Portal under Synapse ID [syn38120890](https://www.synapse.org/#!Synapse:syn38120890.2/datasets/). *FASTQ files can also be found under the same Synapse ID.*
-
-
 ***Dataset for the sustainable energy transition under heating electrification (DASETH) provides a comprehensive data repository  that enables the modeling of power-gas system futures under deep heating electrification. The dataset considers 6,17 and 67 subregions in New England and contains:***
 
 #### 1. Hourly projection of power demand and natural demand for the year 2050 under 20 different weather years and 5 different heating electrification levels (100 projections), as shown in Fig. 1
@@ -44,7 +40,7 @@ The detailed description of constructing each dataset is provided in the ***foll
 
 The dataset is constructed for New England regions with varying spatial granularity for the power network. The residential load, however, is available for the power system with 17 nodes and is accessible in the folder `Raw_Residential_Data`. 
 
-Insider each of the remaining folders (i.e., ‘6_Power_Nodes’, ‘17_Power_Nodes’, and  ‘67_Power_Nodes’) there are two folders:
+Insider each of the remaining folders (i.e., `6_Power_Nodes`, `17_Power_Nodes`, and  `67_Power_Nodes`) there are two folders:
 
 <ul class="roman">
  <li> `Gas_System_Data` that contains all the data relevant to the natural gas (NG) system in the region. The gas network remains a 23-node network for all granularity of the power network.  </li>
