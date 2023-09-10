@@ -86,7 +86,7 @@ The dataset is currently curated for the New England region. However, the group 
 Please reach out to the contributors for any suggestions, possible collaborations, and ideas for extension of the dataset.
 
 ## Important Note
-This is the first release of this dataset.  Although the dataset is validated by the contributors, it may contain inconsistencies, typos and errors. If that is the case, please let the contributors know. 
+This is the first release of this dataset.  Although the dataset is validated by the contributors, it may contain inconsistencies, typos, and errors. If that is the case, please let the contributors know. 
 
 
 
