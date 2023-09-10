@@ -1,11 +1,11 @@
 # Dataset for the sustainable energy transition under heating electrification (DASETH)
 
-***Dataset for the sustainable energy transition under heating electrification (DASETH) provides a comprehensive data repository  that enables the modeling of power-gas system futures under deep heating electrification. The dataset considers 6,17 and 67 subregions in New England and contains:***
+***Dataset for the sustainable energy transition under heating electrification (DASETH) provides a comprehensive data repository  that enables the modeling of power-gas system futures under deep heating electrification. The dataset considers 6, 17 and 67 subregions in New England and contains:***
 
-#### 1. Hourly projection of power demand and natural demand for the year 2050 under 20 different weather years and 5 different heating electrification levels (100 projections), as shown in Fig. 1
-#### 2. Hourly projection of availability factors for solar, wind, and offshore wind generators for the year 2050 under 20 different weather years and 5 different heating electrification levels (100 projections) 
-#### 3. Detailed topological description of the current and future power and natural gas infrastructure in the region load zones, transmission lines and pipelines, as depicted in Fig. 2
-#### 4. Other parameters for energy planning include parameters for possible power plants and storage technologies. 
+1. Hourly projection of power demand and natural demand for the year 2050 under 20 different weather years and 5 different heating electrification levels (100 projections), as shown in Fig. 1
+2. Hourly projection of availability factors for solar, wind, and offshore wind generators for the year 2050 under 20 different weather years and 5 different heating electrification levels (100 projections) 
+3. Detailed topological description of the current and future power and natural gas infrastructure in the region load zones, transmission lines and pipelines, as depicted in Fig. 2
+4. Other parameters for energy planning include parameters for possible power plants and storage technologies. 
 
 The detailed description of constructing each dataset is provided in the ***following paper.***
 
@@ -42,22 +42,14 @@ The dataset is constructed for New England regions with varying spatial granular
 
 Insider each of the remaining folders (i.e., `6_Power_Nodes`, `17_Power_Nodes`, and  `67_Power_Nodes`) there are two folders:
 
- * `Gas_System_Data` that contains all the da
-  -  `NG_AdjE_Nodes.csv`: adjacent power nodes for each gas node. </li>
-
-
-
-
-<ul>
- <li> `Gas_System_Data` that contains all the data relevant to the natural gas (NG) system in the region. The gas network remains a 23-node network for all granularity of the power network.  </li>
-  
- <ul class="square">
-  <li> `NG_AdjE_Nodes.csv`: adjacent power nodes for each gas node. </li>
-  <li>`NG_Load_{Elec_Scenario}_BaseYear{WY}.csv`: these files contain the daily demand of gas across. The {Elec_Scenario} keyword takes one of the 5 electrification scenarios (HE, HX, ME, MX, RF), and {WY} takes one of the 20 weather years between 2001 and 2020.</li>
-  <li>'NG_Nodes.csv': relevant information for each gas node including their locations and associated counties.</li>
-  <li>‘NG2NG_Pipelines.csv’: existing and candidate pipelines in the gas network</li>
-  <li>‘SVL_data.csv’: information for each gas storage-vaporization-liquefaction (SVL) node including their locations and associated counties.</li>
-  <li>‘SVL_params.csv’: parameters for SVL nodes.</li>
+ 1) `Gas_System_Data` that contains all the data relevant to the natural gas (NG) system in the region. The gas network remains a 23-node network for all granularity of the power network.
+- `Gas_System_Data` that contains all the data relevant to the natural gas (NG) system in the region. The gas network remains a 23-node network for all granularity of the power network.
+- `NG_AdjE_Nodes.csv`: adjacent power nodes for each gas node.
+- `NG_Load_{Elec_Scenario}_BaseYear{WY}.csv`: these files contain the daily demand of gas across. The {Elec_Scenario} keyword takes one of the 5 electrification scenarios (HE, HX, ME, MX, RF), and {WY} takes one of the 20 weather years between 2001 and 2020.
+- 'NG_Nodes.csv': relevant information for each gas node including their locations and associated counties.
+- `NG2NG_Pipelines.csv`: existing and candidate pipelines in the gas network.
+- `SVL_data.csv`: information for each gas storage-vaporization-liquefaction (SVL) node including their locations and associated counties.
+- `SVL_params.csv`: parameters for SVL nodes.
  </ul>
  </li>
  <li>‘Power_System_Data’ that contains all the data relevant to the electric power system in the region.  </li></li>
