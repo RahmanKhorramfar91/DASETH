@@ -76,7 +76,8 @@ So far, the dataset has the known usage in the following papers:
 - [Graph Representation Learning for Energy Demand Data: Application to Joint Energy System Planning under EmissionsConstraints](https://www.climatechange.ai/papers/aaaifss2022/18) 
 
 ## Contributors 
-***[Rahman Khorramfar (khorram@mit.edu)]([khorram@mit.edu](https://github.com/RahmanKhorramfar91))***
+***[Rahman Khorramfar (khorram@mit.edu)](https://github.com/RahmanKhorramfar91)***
+
 ***[Morgan Santoni-Colvin (msantoni@mit.edu)](https://www.linkedin.com/in/morgan-santoni-colvin/)***
 
 
