@@ -43,7 +43,7 @@ The dataset is constructed for New England regions with varying spatial granular
 Insider each of the remaining folders (i.e., `6_Power_Nodes`, `17_Power_Nodes`, and  `67_Power_Nodes`) there are two folders:
 
  `Gas_System_Data` that contains all the da
-<ul class="roman">
+<ul>
  <li> `Gas_System_Data` that contains all the data relevant to the natural gas (NG) system in the region. The gas network remains a 23-node network for all granularity of the power network.  </li>
   
  <ul class="square">
