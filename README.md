@@ -93,7 +93,6 @@ This is the first release of this dataset.  Although the dataset is validated by
 
 
 ## Citation
-Please cite the following paper when using this dataset:
 ```bash 
 @article{khorramfar2023cost,
   title={Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification},
