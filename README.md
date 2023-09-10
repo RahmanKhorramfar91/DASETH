@@ -11,14 +11,16 @@
 
 [Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification](https://arxiv.org/abs/2308.16814)
 
-<br><br>
+<be>
+<br>
 <p align="center">
   <img src="BottomUp-JPoNG-map.png" width="1000" title="Three-step procedure to project load data across 20 weather years and 5 electrification scenarios">
 </p>
 
 ***Fig. 1: Three-step procedure to project load data across 20 weather years and 5 electrification scenarios***
 
-<br><br>
+<be>
+<br>
 <p align="center">
   <img src="all-connections.png" width="400" title=" Topology of power and NG infrastructure in New England. The topology includes the existing infrastructure and the possible future developments">
 </p>
@@ -28,7 +30,9 @@
 
 
 
-<br><br><br>
+<be>
+<br>
+<br>
 ## Overview of the Dataset and Files
 The dataset is constructed for New England regions with varying spatial granularity for the power network. The residential load, however, is available for the power system with 17 nodes and is accessible in the folder ‘Raw_Residential_Data’. 
 Insider each of the remaining folders (i.e., ‘6_Power_Nodes’, ‘17_Power_Nodes’, and  ‘67_Power_Nodes’) there are two folders:
