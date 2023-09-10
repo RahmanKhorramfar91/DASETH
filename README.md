@@ -16,7 +16,7 @@ The detailed description of constructing each dataset is provided in the ***foll
 <br>
   
 <p align="center">
-  <img src="bottomup-diagram-updated.png" width="1000" title="Three-step procedure to project load data across 20 weather years and 5 electrification scenarios">
+  <img src="bottomup-diagram-updated.png" width="700" title="Three-step procedure to project load data across 20 weather years and 5 electrification scenarios">
 </p>
 
 ***Fig. 1: Three-step procedure to project load data across 20 weather years and 5 electrification scenarios***
