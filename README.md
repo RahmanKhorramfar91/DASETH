@@ -67,7 +67,7 @@ So far, the dataset has the known usage in the following papers:
 </ol>
 
 ## Contributors 
-***[Rahman Khorramfar (khorram@mit.edu)] ((khorram@mit.edu))***
+***[Rahman Khorramfar (khorram@mit.edu)] ([khorram@mit.edu](https://github.com/RahmanKhorramfar91))***
 ***[Morgan Santoni-Colvin (msantoni@mit.edu)] (https://www.linkedin.com/in/morgan-santoni-colvin/)***
 
 
