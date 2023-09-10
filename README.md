@@ -6,13 +6,14 @@
 #### 3. Detailed topological description of the current and future power and natural gas infrastructure in the region load zones, transmission lines and pipelines, as depicted in Fig. 2
 #### 4. Other parameters for energy planning include parameters for possible power plants and storage technologies. 
 
-The detailed description for constructing each dataset is provided in the ***following paper.***
+The detailed description of constructing each dataset is provided in the ***following paper.***
 
 
 [Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification](https://arxiv.org/abs/2308.16814)
 
 <be>
 <br>
+  
 <p align="center">
   <img src="BottomUp-JPoNG-map.png" width="1000" title="Three-step procedure to project load data across 20 weather years and 5 electrification scenarios">
 </p>
@@ -33,12 +34,13 @@ The detailed description for constructing each dataset is provided in the ***fol
 <be>
 <br>
 <br>
+  
 ## Overview of the Dataset and Files
 The dataset is constructed for New England regions with varying spatial granularity for the power network. The residential load, however, is available for the power system with 17 nodes and is accessible in the folder ‘Raw_Residential_Data’. 
 Insider each of the remaining folders (i.e., ‘6_Power_Nodes’, ‘17_Power_Nodes’, and  ‘67_Power_Nodes’) there are two folders:
 
 <ul class="roman">
- <li>`Gas_System_Data` that contains all the data relevant to the natural gas (NG) system in the region. The gas network remains a 23-node network for all granularity of the power network.  </li>
+ <li> `Gas_System_Data` that contains all the data relevant to the natural gas (NG) system in the region. The gas network remains a 23-node network for all granularity of the power network.  </li>
  <ul class="square">
   <li>`NG_AdjE_Nodes.csv`: adjacent power nodes for each gas node. </li>
   <li>‘NG_Load_{Elec_Scenario}_BaseYear{WY}.csv’: these files contain the daily demand of gas across. The {Elec_Scenario} keyword takes one of the 5 electrification scenarios (HE, HX, ME, MX, RF), and {WY} takes one of the 20 weather years between 2001 and 2020.</li>
