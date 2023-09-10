@@ -44,9 +44,10 @@ Insider each of the remaining folders (i.e., `6_Power_Nodes`, `17_Power_Nodes`, 
 
 <ul class="roman">
  <li> `Gas_System_Data` that contains all the data relevant to the natural gas (NG) system in the region. The gas network remains a 23-node network for all granularity of the power network.  </li>
+  
  <ul class="square">
   <li>`NG_AdjE_Nodes.csv`: adjacent power nodes for each gas node. </li>
-  <li>‘NG_Load_{Elec_Scenario}_BaseYear{WY}.csv’: these files contain the daily demand of gas across. The {Elec_Scenario} keyword takes one of the 5 electrification scenarios (HE, HX, ME, MX, RF), and {WY} takes one of the 20 weather years between 2001 and 2020.</li>
+  <li>`NG_Load_{Elec_Scenario}_BaseYear{WY}.csv`: these files contain the daily demand of gas across. The {Elec_Scenario} keyword takes one of the 5 electrification scenarios (HE, HX, ME, MX, RF), and {WY} takes one of the 20 weather years between 2001 and 2020.</li>
   <li>'NG_Nodes.csv': relevant information for each gas node including their locations and associated counties.</li>
   <li>‘NG2NG_Pipelines.csv’: existing and candidate pipelines in the gas network</li>
   <li>‘SVL_data.csv’: information for each gas storage-vaporization-liquefaction (SVL) node including their locations and associated counties.</li>
