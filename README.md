@@ -6,7 +6,7 @@
 #### 3. Detailed topological description of the current and future power and natural gas infrastructure in the region load zones, transmission lines and pipelines, as depicted in Fig. 2
 #### 4. Other parameters for energy planning include parameters for possible power plants and storage technologies. 
 
-***The detailed description for constructing each dataset is provided in the following paper.***
+The detailed description for constructing each dataset is provided in the ***following paper.***
 
 
 [Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification](https://arxiv.org/abs/2308.16814)
@@ -38,9 +38,9 @@ The dataset is constructed for New England regions with varying spatial granular
 Insider each of the remaining folders (i.e., ‘6_Power_Nodes’, ‘17_Power_Nodes’, and  ‘67_Power_Nodes’) there are two folders:
 
 <ul class="roman">
- <li>'Gas_System_Data' that contains all the data relevant to the natural gas (NG) system in the region. The gas network remains a 23-node network for all granularity of the power network.  </li>
+ <li>`Gas_System_Data` that contains all the data relevant to the natural gas (NG) system in the region. The gas network remains a 23-node network for all granularity of the power network.  </li>
  <ul class="square">
-  <li>‘NG_AdjE_Nodes.csv’: adjacent power nodes for each gas node. </li>
+  <li>`NG_AdjE_Nodes.csv`: adjacent power nodes for each gas node. </li>
   <li>‘NG_Load_{Elec_Scenario}_BaseYear{WY}.csv’: these files contain the daily demand of gas across. The {Elec_Scenario} keyword takes one of the 5 electrification scenarios (HE, HX, ME, MX, RF), and {WY} takes one of the 20 weather years between 2001 and 2020.</li>
   <li>'NG_Nodes.csv': relevant information for each gas node including their locations and associated counties.</li>
   <li>‘NG2NG_Pipelines.csv’: existing and candidate pipelines in the gas network</li>
