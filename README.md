@@ -80,7 +80,7 @@ So far, the dataset has the known usage in the following papers:
 - [Electric-Gas Infrastructure Planning for Deep Decarbonization of Energy Systems](https://arxiv.org/abs/2212.13655)
 - [Decarbonized Future Power-Gas Systems under Large-Scale Electrification of Building Heating](https://ui.adsabs.harvard.edu/abs/2022AGUFMGC42Q0922K/abstract)
 - [Learning Spatio-Temporal Aggregations for Large-Scale Capacity Expansion Problems](https://dl.acm.org/doi/abs/10.1145/3576841.3585920)
-- [Graph Representation Learning for Energy Demand Data: Application to Joint Energy System Planning under Emissions Constraints (https://www.climatechange.ai/papers/aaaifss2022/18) 
+- [Graph Representation Learning for Energy Demand Data: Application to Joint Energy System Planning under Emissions Constraints(https://www.climatechange.ai/papers/aaaifss2022/18) 
 
 ## Contributors 
 ***[Rahman Khorramfar (khorram@mit.edu)] ([khorram@mit.edu](https://github.com/RahmanKhorramfar91))***
