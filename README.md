@@ -54,6 +54,7 @@ Insider each of the remaining folders (i.e., `6_Power_Nodes`, `17_Power_Nodes`, 
  
  
  ***2. `Power_System_Data` contains all the data relevant to the electric power system in the region.***
+ 
  - `AvailabilityFactor_{VRE}_BaseYear{WY}.csv`: These files contain the hourly availability factors for renewable generators. The keyword {VRE} takes `Solar`, `Wind_Offshore`, and `Wind_Onshore` values and {WY} takes one of the 20 weather years between 2001 and 2020.
  - `Electricity_Load_{Elec_Scenario}_BaseYear{WY}.csv`: these files contain the hourly demand of electric power. The {Elec_Scenario} keyword takes one of the 5 electrification scenarios (HE, HX, ME, MX, RF) and {WY} takes one of the 20 weather years between 2001 and 2020.
  - `Plant_params.csv`: parameters for the existing and possible future power generators.
