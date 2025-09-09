@@ -10,7 +10,7 @@
 The detailed description of constructing each dataset is provided in the ***following paper.***
 
 
-[Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification]([https://arxiv.org/abs/2308.16814](https://www.sciencedirect.com/science/article/pii/S2949790624004245?via%3Dihub))
+[Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification](https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906%2825%2900003-5)
 
 
 <be>
