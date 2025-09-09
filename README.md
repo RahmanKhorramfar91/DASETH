@@ -83,11 +83,10 @@ So far, the dataset has the known usage in the following papers:
 
 
 ## Dataset Extension
-The dataset is currently curated for the New England region. However, the group is working to extend the dataset to a much wider range of states across the Midwest and Mid-Atlantic regions, enabling policy-relevant analyses by stakeholders across broad swathes of the country.
-Please reach out to the contributors for any suggestions, possible collaborations, and ideas for extension of the dataset.
+The dataset is currently curated for the New England region. The group is interested in creating similar datasets for other regions. Please reach out for any suggestions, possible collaborations, and ideas for the extension of the dataset.
 
 ## Important Note
-This is the first release of this dataset.  Although the dataset is validated by the contributors, it may contain inconsistencies, typos, and errors. If that is the case, please let the contributors know. 
+Please let the contributors know of any inconsistencies, typos, and errors.
 
 
 
@@ -95,10 +94,13 @@ This is the first release of this dataset.  Although the dataset is validated by
 
 ## Citation
 ```bash 
-@article{khorramfar2023cost,
-  title={Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification},
+@article{khorramfar2025cost,
+  title={Cost-effective planning of decarbonized power-gas infrastructure to meet the challenges of heating electrification},
   author={Khorramfar, Rahman and Santoni-Colvin, Morgan and Amin, Saurabh and Norford, Leslie K and Botterud, Audun and Mallapragada, Dharik},
-  journal={arXiv preprint arXiv:2308.16814},
-  year={2023}
+  journal={Cell Reports Sustainability},
+  volume={2},
+  number={2},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
