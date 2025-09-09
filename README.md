@@ -12,8 +12,6 @@ The detailed description of constructing each dataset is provided in the ***foll
 
 [Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification]([https://arxiv.org/abs/2308.16814](https://www.sciencedirect.com/science/article/pii/S2949790624004245?via%3Dihub))
 
-The dataset is aggregated for 6 zones and is used in the following paper:
-[Power-Gas Infrastructure Planning under Weather-induced Supply and Demand Uncertainties](https://arxiv.org/abs/2506.23509)
 
 <be>
 <br>
@@ -71,7 +69,7 @@ Insider each of the remaining folders (i.e., `6_Power_Nodes`, `17_Power_Nodes`, 
 
 ## Known Usage
 So far, the dataset has the known usage in the following papers:
-
+- [Power-Gas Infrastructure Planning under Weather-induced Supply and Demand Uncertainties](https://arxiv.org/abs/2506.23509)
 - [Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification](https://arxiv.org/abs/2308.16814)
 - [Electric-Gas Infrastructure Planning for Deep Decarbonization of Energy Systems](https://arxiv.org/abs/2212.13655)
 - [Decarbonized Future Power-Gas Systems under Large-Scale Electrification of Building Heating](https://ui.adsabs.harvard.edu/abs/2022AGUFMGC42Q0922K/abstract)
