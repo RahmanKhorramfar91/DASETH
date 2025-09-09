@@ -25,7 +25,7 @@ The detailed description of constructing each dataset is provided in the ***foll
 <be>
 <br>
 <p align="center">
-  <img src="all-connections.png" width="400" title=" Topology of power and NG infrastructure in New England. The topology includes the existing infrastructure and the possible future developments">
+  <img src="connections-all.png" width="400" title=" Topology of power and NG infrastructure in New England. The topology includes the existing infrastructure and the possible future developments">
 </p>
 
 ***Fig. 2: Topology of power and NG infrastructure in New England. The topology includes the existing infrastructure and possible future developments.*** ([Image Source](https://arxiv.org/abs/2308.16814))
