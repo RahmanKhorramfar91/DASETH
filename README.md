@@ -70,11 +70,11 @@ Insider each of the remaining folders (i.e., `6_Power_Nodes`, `17_Power_Nodes`, 
 ## Known Usage
 So far, the dataset has the known usage in the following papers:
 - [Power-Gas Infrastructure Planning under Weather-induced Supply and Demand Uncertainties](https://arxiv.org/abs/2506.23509)
+- [A Deep Generative Learning Approach for Two-stage Adaptive Robust Optimization](https://openreview.net/forum?id=CKXul9iX77) 
 - [Cost-effective Planning of Decarbonized Power-Gas Infrastructure to Meet the Challenges of Heating Electrification](https://arxiv.org/abs/2308.16814)
 - [Electric-Gas Infrastructure Planning for Deep Decarbonization of Energy Systems](https://arxiv.org/abs/2212.13655)
 - [Decarbonized Future Power-Gas Systems under Large-Scale Electrification of Building Heating](https://ui.adsabs.harvard.edu/abs/2022AGUFMGC42Q0922K/abstract)
 - [Learning Spatio-Temporal Aggregations for Large-Scale Capacity Expansion Problems](https://dl.acm.org/doi/abs/10.1145/3576841.3585920)
-- [Graph Representation Learning for Energy Demand Data: Application to Joint Energy System Planning under EmissionsConstraints](https://www.climatechange.ai/papers/aaaifss2022/18) 
 
 ## Contributors 
 ***[Rahman Khorramfar (khorram@mit.edu)](https://github.com/RahmanKhorramfar91)***, Postdoctoral Associate at MIT Energy Initiative and Laboratory for Information & Decision Systems, MIT
